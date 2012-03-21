@@ -4,7 +4,8 @@
   "description": "A simple asynchronous routing pattern.",
   "version": "0.1.0",
   "repository": {
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/samholmes/yarn"
   },
   "main": "yarn.js",
   "dependencies": {},
