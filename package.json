@@ -1,0 +1,16 @@
+{
+  "author": "Sam Holmes (http://github.com/samholmes)",
+  "name": "yarn",
+  "description": "A simple asynchronous routing pattern.",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "yarn.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
