@@ -1,4 +1,4 @@
-var yarn = module.exports = function(initial) {
+var yarn = function(initial) {
 	var clew = []; // clew is a series of sets of functions [[f, ...], ...]
 	var currentSet = 0;
 	function next(i){
@@ -13,3 +13,6 @@ var yarn = module.exports = function(initial) {
 	setTimeout(function(){ initial.call(next); }, 0);
 	return add;
 };
+
+if (module)
+	module.exports = yarn;
