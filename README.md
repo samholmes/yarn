@@ -19,11 +19,11 @@ If you want to use yarn on the client-side (browser), just include yarn.js into 
 
 # Using yarn
 
-Using yarn is simple. First, you have to do is require the yarn function (if you're using client-side, this isn't necessary).
+Using yarn is simple. First, you have to do is require the yarn function (if you're using it client-side, this isn't necessary).
 
 	var yarn = require('yarn');
 
-Then, you can call yarn and pass it an initial function, and then pass sets of functions after subsequently.
+Then, you can call yarn and pass it an initial function, and then chain sets of functions after.
 
 	yarn
 	(function(){
