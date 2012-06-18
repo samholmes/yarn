@@ -2,11 +2,6 @@
 
 Yarn is a simple asynchronous routing pattern that makes it easy to write asynchrounous code in linear fashion.
 
-If you like my work, buy me a Red Bull or Macbook Air or something. xP
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJCCMHKZLMSX2&lc=US&item_name=yarn&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)  
-**Bitcoin Address:** 1ADbZY8XBJsqjPMGrEHf9C9QeNvrBmhL3K
-
 # Setup
 
 To set up yarn on your Node.js server use npm.
@@ -87,3 +82,10 @@ Here is an example of how you could use yarn with asynchronous callbacks.
 Another thing to note is that `this()` (called with no index passed) is synonymous to `this(0)`.
 
 to be conitnued...possibly
+
+## Feedback
+
+Feedback is welcome. If you like my work, donations or tips are appreciated.
+
+[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJCCMHKZLMSX2&lc=US&item_name=yarn&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted)  
+[<img src="https://en.bitcoin.it/w/images/en/c/c4/BC_Logotype_Reverse.png" height='18'>](bitcoin:1ADbZY8XBJsqjPMGrEHf9C9QeNvrBmhL3K) 1ADbZY8XBJsqjPMGrEHf9C9QeNvrBmhL3K
