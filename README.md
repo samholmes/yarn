@@ -1,3 +1,7 @@
+# Notice
+
+This project's name has been given up to [Yarn](https://github.com/yarnpkg/yarn). Use [Lace](https://github.com/samholmes/lace) as an alternative to this module.
+
 # yarn
 
 Yarn is a simple asynchronous routing pattern that makes it easy to write asynchrounous code in linear fashion.
