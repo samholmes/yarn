@@ -4,7 +4,7 @@ This project's name has been given up to [Yarn](https://github.com/yarnpkg/yarn)
 
 # yarn
 
-Yarn is a simple asynchronous routing pattern that makes it easy to write asynchrounous code in linear fashion.
+Yarn is a simple asynchronous routing pattern that makes it easy to write asynchronous code in linear fashion.
 
 # Setup
 
